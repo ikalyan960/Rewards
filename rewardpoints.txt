@@ -1,0 +1,17 @@
+customerName  transactionAmount   Date
+Praveen     150                 07/15/2019
+Kalyan      92                  07/27/2019
+Bala        108                 07/31/2019
+Ramesh      86                  08/18/2019
+Praveen     190                 08/20/2019
+Kalyan      96                  08/28/2019
+Bala        103                 08/30/2019
+Ramesh      104.45              09/09/2019
+Praveen     45.50               09/15/2019
+Kalyan      145.50              09/18/2019
+Bala        65.50               09/28/2019
+Ramesh      145                 09/30/2019
+Praveen     73                  10/05/2019
+Kalyan      15                  10/18/2019
+Bala        425.50              10/20/2019
+Ramesh      51                  10/20/2019
